@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppDescription</string>
+    <string name="app_demo">TEST ANDROID</string>
+    <string name="adt_group">ADT Group</string>
+    <string name="error">Thông báo</string>
+    <string name="error_network">Không có kết nối mạng! </string>
+    <string name="yes">Có</string>
+    <string name="descption">This is detail photo description.</string>
 </resources>
